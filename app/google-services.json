@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "526420439686",
+    "firebase_url": "https://bon--appetit.firebaseio.com",
+    "project_id": "bon--appetit",
+    "storage_bucket": "bon--appetit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526420439686:android:57c3afc7649de7594ad707",
+        "android_client_info": {
+          "package_name": "com.dineout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526420439686-4hmdj8rkg1nsk8edpndsu06mo3hcpk8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dineout",
+            "certificate_hash": "c8259ad026785cd4389a2a860321fa85eece2499"
+          }
+        },
+        {
+          "client_id": "526420439686-a88gk9d12t7r2op891dsrjnpuml0odtj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQEbqkxrn2JjcLvhFjLOvGzmFeC3F2PN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526420439686-a88gk9d12t7r2op891dsrjnpuml0odtj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
