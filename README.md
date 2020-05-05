@@ -1,4 +1,4 @@
-# 👨‍🍳 Restaurant Management System
+# Restaurant Management System
 
 ## Project Description
 Bon Appetit is an **Android based Restaurant Management System** that aims to digitalize the process of various restaurant operations including **ordering, billing kitchen, hall and inventory management**.
@@ -7,7 +7,7 @@ The main purpose is to **improve the performance** of the restaurant by eradicat
 would be performed in less amount of time and more efficiently. An additional benefit of this software is that during the rush hours the load can be balanced effectively, and restaurants would perform better than usual. In addition to this, human error that occurs when performing tasks manually is also minimized and presence of queues in the system to assign tasks to chefs can reduce congestion in the kitchen. The system would also result in reduction of labor which would result in the reduction of expenses of the restaurant. Feedback module would help the restaurant check for how well they are performing, and monthly/yearly figures can be checked by the billing module to see the trends in sales and profits. These benefits can potentially result in generation of more revenues for the restaurant. 
 
 ## Purpose
-This application was developed as a final project for our **Software Engineering (ITC14)** Course.
+This application was developed as a final project for my **Software Engineering (ITC14)** Course.
 
 ## User Classes and Characteristics
 There are **five** types of users for our system. 
@@ -61,28 +61,7 @@ All have the password: 123456
 
 
 ---
-## 👨🏼‍💻 Contributors
-It was really fun to work to get the job done:
+## 👨🏼‍💻 Contributor
+It was really fun to work on this project
 * [Gaurav Kumar](https://github.com/gauravx95)
----
-
-## My Contact
-You can get in touch with me on my LinkedIn Profile: [![LinkedIn Link](https://www.linkedin.com/in/gaurav-kumar-1a8058136/)
-
-You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-gauravx95-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/harismuneer)
-
-If you liked the repo then please support it by giving it a star ⭐!
-
-## Contributions Welcome
-
-If you find any bug in the code or have any improvements in mind then feel free to generate a pull request.
-
-## Issues
-[![GitHub Issues]
-
-If you face any issue, you can create a new issue in the Issues Tab and I will be glad to help you out.
-
-## License
-[![MIT](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=style&label=License&maxAge=2592000)](../master/LICENSE)
-
-Copyright (c) 2020 , gauravx95                                                 
+---                                               
