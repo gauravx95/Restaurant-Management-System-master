@@ -31,19 +31,19 @@ Hall Managers will provide its input when he marks the bill as paid when custome
 ## Screenshots of some Interfaces and their Description
 
 <p align="middle">
-  <img src="../master/images/1.PNG"/>
+  <img src="../master/images/1.jpeg"/>
  </p>
  
  <p align="middle">
-  <img src="../master/images/2.PNG"/>
+  <img src="../master/images/2.jpeg"/>
  </p>
 
 <p align="middle">
-  <img src="../master/images/3.PNG"/>
+  <img src="../master/images/3.jpeg"/>
  </p>
  
  <p align="middle">
-  <img src="../master/images/4.PNG"/>
+  <img src="../master/images/4.jpeg"/>
  </p>
 
 ## How to Run
